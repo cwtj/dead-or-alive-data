@@ -22,7 +22,7 @@
 - **CDN**：jsDelivr
 
 ## 開發與建置
-
+（需要node.js,推荐版本**20.19.4**以后）
 ### 1. 安裝依賴
 ```bash
 npm install
